@@ -72,7 +72,7 @@
     "@types/node": "^22.9.0",
     "bunchee": "6.2.0",
     "llamaindex": "workspace:*",
-    "next": "15.0.3",
+    "next": "15.1.2",
     "rollup": "^4.28.1",
     "tsx": "^4.19.0",
     "typescript": "^5.7.2",
